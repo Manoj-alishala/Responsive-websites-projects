@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.diwali-logo {
+    width: 160px;
+    height: 55px;
+}
+
+#itemNav1 {
+    color: black;
+}
+
+#itemNav2 {
+    color: black;
+}
+
+#itemNav3 {
+    color: black;
+}
+
+#itemNav4 {
+    color: black;
+}
+
+#itemNav5 {
+    color: black;
+}
+
+
+.dawali-service-section {
+    background-color: #fff;
+}
+
+.service-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.service-card {
+    background-color: #ffffff;
+}
+
+.service-heading-dis {
+    color: #616c7c;
+}
+
+.service-img {
+    width: 90px;
+    height: 80px;
+}
+
+.service-title {
+    font-size: 24px;
+    color: #1f2933;
+}
+
+.service-discription {
+    color: #616c7c;
+}
+
+
+.product-bg1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    height: 350px;
+    border-radius: 12px;
+}
+
+.product-bg2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    height: 350px;
+    border-radius: 12px;
+}
+
+.product-haeding {
+    color: #183b56;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.product-title {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 34px;
+    font-weight: 670;
+}
+
+.product-des {
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.product-button {
+    color: #ff9f00;
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    border-width: 0px;
+}
+
+.product-details-highlight {
+    color: #323f4b;
+    font-weight: 700;
+}
+
+
+.ecommerce-explore-section {
+    background-color: #f5f7fa;
+}
+
+.explore-heading {
+    font-size: 38px;
+    font-family: "Roboto";
+    font-weight: 700;
+    color: #183b56;
+}
+
+.explore-card {
+    background-color: #ffffff;
+}
+
+.explore-card-title {
+    font-family: "Roboto";
+    font-weight: 600;
+    color: #183b56;
+    border-radius: 12px;
+}
+
+.explore-img {
+    border-radius: 15px;
+}
+
+.menu-item-link {
+    color: #ff9f00;
+    font-weight: 650;
+}
+
+.Ecommerce-Offers-Section {
+    background-image: linear-gradient(#f49541, #dd5d97);
+}
+
+.offer-heading {
+    color: #ad2167;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.offer-des {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.offer-high {
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+.ecommerce-contact-section {
+    color: #f5f7fa;
+}
+
+.contact-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.contact-button {
+    color: #ff9f00;
+    border-color: #ff9f00;
+    height: 40px;
+    width: 120px;
+    background-color: #ffffff;
+
+}
+
+.footer {
+    background-color: #1a2a65;
+    color: #ffffff;
+}
